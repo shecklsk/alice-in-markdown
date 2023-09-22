@@ -1,0 +1,17 @@
+html{max-width: 960px;
+font-size: 16px;    
+line-height: 1.25px;
+}
+
+figure{max-width: 500px;
+padding: 2%;
+background-color: bisque;
+}
+
+figcaption{font-size: 80%;
+    font-family:sans-serif;
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
